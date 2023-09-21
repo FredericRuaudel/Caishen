@@ -1,11 +1,5 @@
 ![Caishen](caishen.jpg)
 
-[![Travis build status](https://img.shields.io/travis/prolificinteractive/Caishen.svg?style=flat-square)](https://travis-ci.org/prolificinteractive/Caishen)
-[![Cocoapods Compatible](https://img.shields.io/cocoapods/v/Caishen.svg?style=flat-square)](https://img.shields.io/cocoapods/v/Caishen.svg)
-[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat-square)](https://github.com/Carthage/Carthage)
-[![Platform](https://img.shields.io/cocoapods/p/Caishen.svg?style=flat-square)](http://cocoadocs.org/docsets/Caishen)
-[![Docs](https://img.shields.io/cocoapods/metrics/doc-percent/Caishen.svg?style=flat-square)](http://cocoadocs.org/docsets/Caishen)
-
 ## Description
 
 **Note:** This is a fork of Caishen original repository based on the last version to date: 2.2 (09/21/2023) refactored to support SPM **instead of** Cocoapods and Carthage.
