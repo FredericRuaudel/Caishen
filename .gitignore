@@ -436,3 +436,7 @@ Carthage
 # `pod install` in .travis.yml
 #
 # Pods/
+
+#SPM
+.build
+.swiftpm

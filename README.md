@@ -8,6 +8,8 @@
 
 ## Description
 
+**Note:** This is a fork of Caishen original repository based on the last version to date: 2.2 (09/21/2023) refactored to support SPM **instead of** Cocoapods and Carthage.
+
 Caishen provides an easy-to-use text field to ask users for payment card information and to validate the input. It serves a similar purpose as [PaymentKit](https://github.com/stripe/PaymentKit), but is developed as a standalone framework entirely written in Swift. Caishen also allows an easy integration with other third-party frameworks, such as [CardIO](https://www.card.io).
 
 <center> ![Caishen example](caishen_example.gif) </center>
@@ -19,22 +21,12 @@ Caishen provides an easy-to-use text field to ask users for payment card informa
 
 ## Installation
 
-### CocoaPods
+### SPM
 
-Caishen is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your Podfile:
+Add the following line to your `Package.swift` dependencies section:
 
-```ruby
-pod "Caishen"
-```
-
-### Carthage
-
-Caishen is available through [Carthage](https://github.com/Carthage/Carthage). To install
-it, simply add the following line to your Cartfile:
-
-```
-github "prolificinteractive/Caishen"
+```swift
+.package(url: "https://github.com/FredericRuaudel/Caishen", from: "2.2.1"),
 ```
 
 ## Usage

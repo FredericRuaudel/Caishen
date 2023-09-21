@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import UIKit
 
 /**
  Enum to provide constants for localized strings in caishen, as well as convenience methods to localize the respective strings.

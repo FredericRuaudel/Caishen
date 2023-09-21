@@ -6,6 +6,7 @@
 //  Copyright © 2016 Prolific Interactive. All rights reserved.
 //
 
+import Foundation
 /**
  The delegate protocol for a `NumberInputTextField`. The delegate gets notified about changes to the text, as well as an update, if a valid card number has been entered.
  */

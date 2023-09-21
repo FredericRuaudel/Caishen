@@ -5,6 +5,7 @@
 //  Created by Daniel Vancura on 3/8/16.
 //  Copyright © 2016 Prolific Interactive. All rights reserved.
 //
+import UIKit
 
 extension CardTextField {
     override public final var textColor: UIColor? {
