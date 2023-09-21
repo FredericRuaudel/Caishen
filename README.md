@@ -20,7 +20,7 @@ Caishen provides an easy-to-use text field to ask users for payment card informa
 Add the following line to your `Package.swift` dependencies section:
 
 ```swift
-.package(url: "https://github.com/FredericRuaudel/Caishen", from: "2.2.1"),
+.package(url: "https://github.com/FredericRuaudel/Caishen", from: "2.2.1")
 ```
 
 ## Usage
