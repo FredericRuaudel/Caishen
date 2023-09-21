@@ -16,8 +16,8 @@ Caishen provides an easy-to-use text field to ask users for payment card informa
 
 ## Requirements
 
-* iOS 8.0+
-* Xcode 10.0+
+* iOS 12.0+
+* Xcode 12.0+
 
 ## Installation
 
